@@ -1,0 +1,20 @@
+ canvas {
+    display: black;
+    margin: 0 auto;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 12px;
+}
+
+ #subtitle {
+    font-size:20px;
+    text-align: center;
+ }
+
+ /* 현재 점수 */
+ #score {
+    font-size:40px;
+    text-align: center;
+    margin-top:20px;
+    font-weight:bold;
+ }
